@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 
 import Head from 'next/head';
+import Post from '../components/Post';
 
 export default function Home({ posts }) {
 	console.log(posts);
@@ -16,7 +17,11 @@ export default function Home({ posts }) {
 				/>
 				<link rel='icon' href='/favicon.ico' />
 			</Head>
-			<h2>Test</h2>
+			<div className='posts'>
+				{posts.map((post, index) => (
+					<Post key={index} post={post} />
+				))}
+			</div>
 		</div>
 	);
 }
