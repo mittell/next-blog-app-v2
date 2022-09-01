@@ -74,7 +74,8 @@ header a {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	gap: 30px;
-	margin-top: 30px;
+	margin-top: 20px;
+	margin-bottom: 15px;
 }
 
 .card {
