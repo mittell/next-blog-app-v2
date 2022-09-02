@@ -1,11 +1,11 @@
 ---
-title: 'Test Post'
-date: 'September 02 2022'
+title: 'I love Arcades!'
+date: 'August 15 2022'
 excerpt: 'This is a test...'
-cover_image: '/images/posts/img1.jpg'
+cover_image: '/images/posts/img3.jpg'
 ---
 
-## Heading
+## I love Arcades!
 
 This is a test post!
 

@@ -1,11 +1,11 @@
 ---
-title: 'Test Post 2'
-date: 'September 01 2022'
+title: 'Best Burger Recipe'
+date: 'August 22 2022'
 excerpt: 'This is a test...'
-cover_image: '/images/posts/img2.jpg'
+cover_image: '/images/posts/img5.jpg'
 ---
 
-## Heading
+## Best Burger Recipe
 
 This is a test post!
 
